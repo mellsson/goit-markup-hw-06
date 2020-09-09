@@ -925,6 +925,7 @@ fill:var(--accent-color);
     top: 50%;
     transform: translateY(-50%);
     margin-left:12px;
+    pointer-events: none;
 }
 
 .modal-form_check-label {
